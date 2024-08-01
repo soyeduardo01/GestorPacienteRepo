@@ -1,9 +1,15 @@
+using GestorPaciente.Infrastructure.Persistence;
+
 var builder = WebApplication.CreateBuilder(args);
+var configuration = builder.Configuration;
+builder.Services.AddPersistenceInfrastructure(configuration);
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

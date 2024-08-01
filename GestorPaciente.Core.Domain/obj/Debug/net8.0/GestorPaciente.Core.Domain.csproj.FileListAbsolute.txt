@@ -1,0 +1,12 @@
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\bin\Debug\net8.0\GestorPaciente.Core.Domain.deps.json
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\bin\Debug\net8.0\GestorPaciente.Core.Domain.dll
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\bin\Debug\net8.0\GestorPaciente.Core.Domain.pdb
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\obj\Debug\net8.0\GestorPaciente.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\obj\Debug\net8.0\GestorPaciente.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\obj\Debug\net8.0\GestorPaciente.Core.Domain.AssemblyInfo.cs
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\obj\Debug\net8.0\GestorPaciente.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\obj\Debug\net8.0\GestorPaciente.Core.Domain.sourcelink.json
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\obj\Debug\net8.0\GestorPaciente.Core.Domain.dll
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\obj\Debug\net8.0\refint\GestorPaciente.Core.Domain.dll
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\obj\Debug\net8.0\GestorPaciente.Core.Domain.pdb
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Domain\obj\Debug\net8.0\ref\GestorPaciente.Core.Domain.dll

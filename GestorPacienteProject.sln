@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApp", "WebApp", "{BC6E3AFE-5BE9-4330-95CE-4CC13E0F8857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorPaciente.WebApp", "GestorPaciente.WebApp\GestorPaciente.WebApp.csproj", "{812587DC-5FAD-4622-8ABF-0288936BBB27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestorPaciente.WebApp", "GestorPaciente.WebApp\GestorPaciente.WebApp.csproj", "{812587DC-5FAD-4622-8ABF-0288936BBB27}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{AF63B0F7-4C8C-472E-9A88-A0FA5580DC15}"
 EndProject
@@ -13,11 +13,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{107FCC86-E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{41870222-FA97-4409-B015-D20BCA404C8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorPaciente.Core.Application", "GestorPaciente.Core.Application\GestorPaciente.Core.Application.csproj", "{4CC87F2D-6A46-4EC8-BFF3-8D2E0869214C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestorPaciente.Core.Application", "GestorPaciente.Core.Application\GestorPaciente.Core.Application.csproj", "{4CC87F2D-6A46-4EC8-BFF3-8D2E0869214C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorPaciente.Core.Domain", "GestorPaciente.Core.Domain\GestorPaciente.Core.Domain.csproj", "{26549934-ABEA-4E7A-B5CE-1A7846527529}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestorPaciente.Core.Domain", "GestorPaciente.Core.Domain\GestorPaciente.Core.Domain.csproj", "{26549934-ABEA-4E7A-B5CE-1A7846527529}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorPaciente.Infrastructure.Persistence", "GestorPaciente.Infrastructure.Persistence\GestorPaciente.Infrastructure.Persistence.csproj", "{05429102-C865-4B12-A387-EC6BA9193380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestorPaciente.Infrastructure.Persistence", "GestorPaciente.Infrastructure.Persistence\GestorPaciente.Infrastructure.Persistence.csproj", "{05429102-C865-4B12-A387-EC6BA9193380}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2332FFC7-02EE-4726-B299-E54742B2B957}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

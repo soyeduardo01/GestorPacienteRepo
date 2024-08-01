@@ -1,0 +1,16 @@
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\bin\Debug\net8.0\GestorPaciente.Core.Application.deps.json
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\bin\Debug\net8.0\GestorPaciente.Core.Application.dll
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\bin\Debug\net8.0\GestorPaciente.Core.Application.pdb
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\bin\Debug\net8.0\GestorPaciente.Core.Domain.dll
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\bin\Debug\net8.0\GestorPaciente.Core.Domain.pdb
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\GestorPaciente.Core.Application.csproj.AssemblyReference.cache
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\GestorPaciente.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\GestorPaciente.Core.Application.AssemblyInfoInputs.cache
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\GestorPaciente.Core.Application.AssemblyInfo.cs
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\GestorPaciente.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\GestorPaciente.Core.Application.sourcelink.json
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\GestorPa.8CFCDE47.Up2Date
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\GestorPaciente.Core.Application.dll
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\refint\GestorPaciente.Core.Application.dll
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\GestorPaciente.Core.Application.pdb
+C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.Core.Application\obj\Debug\net8.0\ref\GestorPaciente.Core.Application.dll

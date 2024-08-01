@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+
+using GestorPaciente.Core.Domain.Common;
 
 namespace GestorPaciente.Core.Domain.Entities
 {
-    public class Medicos
+    public class Medicos : AuditableBaseEntity
     {
         public string Cedula { get; set; }
         public string Nombre { get; set; }
@@ -14,5 +12,9 @@ namespace GestorPaciente.Core.Domain.Entities
         public string Correo { get; set; }  
         public string Telefono { get; set; }
         public string FotoMedico { get; set; }
+
+        // NAVIGATION PROPERTIES
+
+        public ICollection<Citas>? Citas { get; set; }
     }
 }
