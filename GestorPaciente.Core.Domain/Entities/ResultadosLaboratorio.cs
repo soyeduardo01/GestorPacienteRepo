@@ -12,7 +12,6 @@ namespace GestorPaciente.Core.Domain.Entities
         public int Id_PruebasLaboratorio { get; set; }
 
         // NAVIGATION PROPERTIES
-
         public Pacientes? Pacientes { get; set; }
         public PruebasLaboratorio? PruebasLaboratorio { get; set; }  
     }

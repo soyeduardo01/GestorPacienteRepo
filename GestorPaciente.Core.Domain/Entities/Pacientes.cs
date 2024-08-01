@@ -17,7 +17,6 @@ namespace GestorPaciente.Core.Domain.Entities
         public string FotoPaciente { get; set; }
 
         // NAVIGATIONS PROPERTIES
-
         public ICollection<ResultadosLaboratorio>? ResultadosLaboratorio { get; set; }
         public ICollection<Citas>? Citas { get; set; }
     }

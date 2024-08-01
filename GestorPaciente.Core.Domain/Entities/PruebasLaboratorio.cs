@@ -10,7 +10,6 @@ namespace GestorPaciente.Core.Domain.Entities
         public string Nombre { get; set; }
 
         // NAVIGATION PROPERTIES
-
         public ResultadosLaboratorio? ResultadosLaboratorio { get; set; }
 
 

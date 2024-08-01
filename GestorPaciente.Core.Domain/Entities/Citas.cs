@@ -14,7 +14,6 @@ namespace GestorPaciente.Core.Domain.Entities
         public string CedulaMedico { get; set; }
 
         // NAVIGATION PROPERTIES
-
         public Pacientes Pacientes { get; set; }    
         public Medicos Medicos { get; set; }
 

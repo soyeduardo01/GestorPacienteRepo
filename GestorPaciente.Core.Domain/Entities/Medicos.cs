@@ -14,7 +14,6 @@ namespace GestorPaciente.Core.Domain.Entities
         public string FotoMedico { get; set; }
 
         // NAVIGATION PROPERTIES
-
         public ICollection<Citas>? Citas { get; set; }
     }
 }
