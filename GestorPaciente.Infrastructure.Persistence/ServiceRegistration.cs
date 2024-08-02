@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using System.ComponentModel.Design;
 
 
 namespace GestorPaciente.Infrastructure.Persistence
@@ -28,6 +29,7 @@ namespace GestorPaciente.Infrastructure.Persistence
                         )
                      );
             }
+
             #endregion
 
         }
