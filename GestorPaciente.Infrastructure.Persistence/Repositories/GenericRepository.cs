@@ -30,7 +30,7 @@ namespace GestorPaciente.Infrastructure.Persistence.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public async Task<List<Entity>> GetAllAsync (Entity entity)
+        public async Task<List<Entity>> GetAllAsync()
         {
             return await _context.Set<Entity>().ToListAsync();
         }

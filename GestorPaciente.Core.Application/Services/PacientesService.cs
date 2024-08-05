@@ -1,11 +1,12 @@
 ﻿
 using GestorPaciente.Core.Application.Interfaces.Repositories;
+using GestorPaciente.Core.Application.Interfaces.Services;
 using GestorPaciente.Core.Application.ViewModel.Pacientes;
 using GestorPaciente.Core.Domain.Entities;
 
 namespace GestorPaciente.Core.Application.Services
 {
-    public class PacientesService
+    public class PacientesService : IPacientesService
     {
         private readonly IPacientesRepository _pacientesRepository;
 
@@ -55,6 +56,42 @@ namespace GestorPaciente.Core.Application.Services
             var paciente = await _pacientesRepository.GetByIdAsync(id);
 
             await _pacientesRepository.DeleteAsync(paciente);
+        }
+
+        public async Task<List<PacientesViewModel>> GetAllViewModel()
+        {
+            var pacientesList = await _pacientesRepository.GetAllAsync();
+            return pacientesList.Select(paciente => new PacientesViewModel()
+            {
+                Cedula = paciente.Cedula,
+                Nombre = paciente.Nombre,
+                Apellido = paciente.Apellido,
+                Telefono = paciente.Telefono,
+                Direccion = paciente.Direccion,
+                FechaNacimiento = paciente.FechaNacimiento,
+                Fumador = paciente.Fumador,
+                Alergico = paciente.Alergico
+
+            }).ToList();
+        }
+
+        public async Task<GuardarPacientesViewModel> GetByIdGuardarViewModel(int id)
+        {
+            var medico = await _pacientesRepository.GetByIdAsync(id);
+
+            GuardarPacientesViewModel vm = new()
+            {
+                Cedula = medico.Cedula,
+                Nombre = medico.Nombre,
+                Apellido = medico.Apellido,
+                Telefono = medico.Telefono,
+                Direccion = medico.Direccion,
+                FechaNacimiento = medico.FechaNacimiento,
+                Fumador = medico.Fumador,
+                Alergico = medico.Alergico
+            };
+            
+            return vm;
         }
     }
 }

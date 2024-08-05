@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace GestorPaciente.Core.Application.ViewModel.Citas
 {
-    public class GuardarCitaViewModel
+    public class GuardarCitasViewModel
     {
         public int Id { get; set; }
         public string Estatus { get; set; }
