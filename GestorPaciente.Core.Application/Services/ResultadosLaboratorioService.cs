@@ -74,4 +74,3 @@ namespace GestorPaciente.Core.Application.Services
         }
     }
 }
-}

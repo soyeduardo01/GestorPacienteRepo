@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorPaciente.Core.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ce35f452671435532fa1df91b13788a7a7184c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2015a637294daa9eb6066ce789f4dda098edfba")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorPaciente.Core.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorPaciente.Core.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
