@@ -15,12 +15,12 @@ namespace GestorPaciente.WebApp.Controllers.Medicos
 
         public async Task<IActionResult> Index()
         {
-            return View("GuardarMedicos", _medicosService.GetAllViewModel());
+            return View(await _medicosService.GetAllViewModel());
         }
 
-        public async Task<IActionResult> Agregar()
+        public IActionResult Agregar()
         {
-            return View("GuardMedicos", new GuardarMedicosViewModel());
+            return View("GuardarMedicos", new GuardarMedicosViewModel());
 ;       }
 
         [HttpPost]

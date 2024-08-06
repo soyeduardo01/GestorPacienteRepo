@@ -18,7 +18,7 @@ namespace GestorPaciente.WebApp.Controllers.Pacientes
             return View(await _pacientesService.GetAllViewModel());
         }
 
-        public async Task<IActionResult> Agregar()
+        public IActionResult Agregar()
         {
             return View("GuardarPacientes", new GuardarPacientesViewModel());
         }

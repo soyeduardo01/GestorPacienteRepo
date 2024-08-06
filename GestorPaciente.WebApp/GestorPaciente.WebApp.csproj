@@ -19,9 +19,4 @@
     <ProjectReference Include="..\GestorPaciente.Infrastructure.Persistence\GestorPaciente.Infrastructure.Persistence.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\ResultadosLaboratorio\" />
-    <Folder Include="Controllers\PruebasLaboratorio\" />
-  </ItemGroup>
-
 </Project>
