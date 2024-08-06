@@ -1,6 +1,4 @@
 ﻿using GestorPaciente.Core.Application.Interfaces.Services;
-using GestorPaciente.Core.Application.Services;
-using GestorPaciente.Core.Application.ViewModel.PruebasLaboratorio;
 using GestorPaciente.Core.Application.ViewModel.ResultadosLaboratorio;
 using Microsoft.AspNetCore.Mvc;
 

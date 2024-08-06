@@ -26,16 +26,68 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\teamo\OneDrive\Documentos\GestorPaciente\GestorPaciente.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Citas/EliminarCitas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRWxpbWluYXJDaXRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Citas/GuardarCitas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcR3VhcmRhckNpdGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Citas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Medicos/EliminarMedicos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xFbGltaW5hck1lZGljb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Medicos/GuardarMedicos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xHdWFyZGFyTWVkaWNvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Medicos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Pacientes/EliminarPacientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEVsaW1pbmFyUGFjaWVudGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Pacientes/GuardarPacientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEd1YXJkYXJQYWNpZW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Pacientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/PruebasLaboratorio/EliminarPruebasLaboratorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJ1ZWJhc0xhYm9yYXRvcmlvXEVsaW1pbmFyUHJ1ZWJhc0xhYm9yYXRvcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/PruebasLaboratorio/GuardarPruebasLaboratorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJ1ZWJhc0xhYm9yYXRvcmlvXEd1YXJkYXJQcnVlYmFzTGFib3JhdG9yaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/PruebasLaboratorio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJ1ZWJhc0xhYm9yYXRvcmlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/ResultadosLaboratorio/EliminarResultadosLaboratorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0YWRvc0xhYm9yYXRvcmlvXEVsaW1pbmFyUmVzdWx0YWRvc0xhYm9yYXRvcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/ResultadosLaboratorio/GuardarResultadosLaboratorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0YWRvc0xhYm9yYXRvcmlvXEd1YXJkYXJSZXN1bHRhZG9zTGFib3JhdG9yaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/ResultadosLaboratorio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0YWRvc0xhYm9yYXRvcmlvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/teamo/OneDrive/Documentos/GestorPaciente/GestorPaciente.WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
