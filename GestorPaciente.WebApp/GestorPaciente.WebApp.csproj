@@ -11,11 +11,17 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\GestorPaciente.Core.Application\GestorPaciente.Core.Application.csproj" />
     <ProjectReference Include="..\GestorPaciente.Infrastructure.Persistence\GestorPaciente.Infrastructure.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\ResultadosLaboratorio\" />
+    <Folder Include="Controllers\PruebasLaboratorio\" />
   </ItemGroup>
 
 </Project>

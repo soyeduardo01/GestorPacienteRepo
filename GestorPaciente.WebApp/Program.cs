@@ -1,12 +1,15 @@
 using GestorPaciente.Infrastructure.Persistence;
+using GestorPaciente.Core.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;
 builder.Services.AddPersistenceInfrastructure(configuration);
+builder.Services.AddApplicationLayer();
 
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
 
 var app = builder.Build();
 

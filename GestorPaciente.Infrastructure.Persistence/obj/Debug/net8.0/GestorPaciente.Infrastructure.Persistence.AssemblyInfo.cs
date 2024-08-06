@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorPaciente.Infrastructure.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2015a637294daa9eb6066ce789f4dda098edfba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+813e0242d5b90bcd4702e40b023efd1dbfc0188c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorPaciente.Infrastructure.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorPaciente.Infrastructure.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
